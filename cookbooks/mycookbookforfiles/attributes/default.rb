@@ -1,0 +1,2 @@
+
+#default['mycookbookforfiles']['myvar']=thisisdynamicdata 
